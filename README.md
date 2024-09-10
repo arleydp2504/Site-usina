@@ -1,1 +1,1 @@
-Projeto desenvolvido durante os estudos do cusro superior de Análise e Desenvolvimento de Sistemas
+Projeto desenvolvido durante os estudos do curso superior de Análise e Desenvolvimento de Sistemas
